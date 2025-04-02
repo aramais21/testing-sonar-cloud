@@ -7,5 +7,3 @@ const jsonParser = bodyParser()
 app.listen(8080, () => {
     console.log("Listening on port 8080");
 })
-
-console.log('aaaaara')
